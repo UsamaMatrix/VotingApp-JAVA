@@ -1,0 +1,5 @@
+Abrar,0,Brain,src/images/abrar.png
+Umer,0,ACT
+Rehan,0,CS
+Khalid,0,Skull
+Tayyab,0,Brain
